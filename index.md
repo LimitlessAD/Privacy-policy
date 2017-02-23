@@ -1,7 +1,10 @@
 <body id="page-top">
-<header>
-      <h1 class="title">Termos de uso</h1>
-    </header>
+
+<script src="https://code.jquery.com/jquery-3.1.1.min.js" async></script>
+
+<script>
+      $('.inner').first().css('display', 'none');
+</script>
 <h3>
     Política de privacidade para
     Limitless Soft
