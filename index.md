@@ -32,7 +32,8 @@
 <p>
     Todas as informações pessoais relativas a membros, assinantes, clientes ou visitantes que usem a Limitless Soft serão tratadas em concordância com a Lei da Proteção de Dados Pessoais de 26 de outubro de 1998 (Lei n.º 67/98).
     A informação pessoal recolhida pode incluir o seu nome, e-mail, número de telefone e/ou telefone móvel, morada, data de nascimento e/ou outros.
-    O uso da Limitless Soft pressupõe a aceitação deste Acordo de privacidade. A equipa da Limitless Sof reserva-se ao direito de alterar este acordo sem aviso prévio. Deste modo, recomendamos que consulte a nossa política de privacidade com regularidade de forma a estar sempre atualizado.
+    <br/>
+    O uso da Limitless Soft pressupõe a aceitação deste Acordo de privacidade. A equipa da Limitless Soft reserva-se ao direito de alterar este acordo sem aviso prévio. Deste modo, recomendamos que consulte a nossa política de privacidade com regularidade de forma a estar sempre atualizado.
 </p>
 <h4>
     Os anúncios
