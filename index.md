@@ -3,9 +3,9 @@
     Política de privacidade para
     Delx Mobile
     e aplicativos vinculados a conta
-    <a href="https://play.google.com/store/apps/developer?id=DelxMobile+Labs">Delxmobile Apps</a>
+    <a href="#">Limitless Soft</a>
     e
-    <a href="https://play.google.com/store/apps/dev?id=5723502633915819194">Mobills Labs apps</a>
+    <a href="#">Infinite Ideas Studio</a>
 </h3>
 
 <p>
@@ -23,37 +23,6 @@
 <p>
     Tal como outros websites e apps, coletamos e utilizamos informação contida nos anúncios. A informação contida nos anúncios, inclui o seu endereço IP (Internet Protocol), o seu ISP (Internet Service Provider, como o Sapo, Clix, ou outro), o browser que utilizou ao visitar o nosso website (como o Internet Explorer ou o Firefox), o tempo da sua visita e que páginas visitou dentro do nossos apps e website.
 </p>
-<h4>
-    Ligações a Sites de terceiros
-</h4>
-<p>
-    O Delx Mobile possui ligações para outros sites, os quais, a nosso ver, podem conter informações / ferramentas úteis para os nossos visitantes. A nossa política de privacidade não é aplicada a sites de terceiros, pelo que, caso visite outro site a partir do nosso deverá ler a politica de privacidade do mesmo.
-    Não nos responsabilizamos pela política de privacidade ou conteúdo presente nesses mesmos sites.
-</p>
-
-    <!-- Core Scripts -->
-    <script src="vendor/jquery/jquery.min.js"></script>
-    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
-    <script src="scripts/classie.js"></script>
-    <script src="scripts/cbpAnimatedHeader.js"></script>
-    <!-- Plugin Scripts -->
-    <script src="vendor/jquery.easing/jquery.easing.min.js"></script>
-    <script src="vendor/owl-carousel/owl.carousel.js"></script>
-    <script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
-    <script src="vendor/formstone/core.js"></script>
-    <script src="vendor/formstone/transition.js"></script>
-    <script src="vendor/formstone/background.js"></script>
-    <script src="vendor/mixitup/jquery.mixitup.js"></script>
-    <script src="vendor/wow/wow.min.js"></script>
-    <!-- Contact Form Scripts -->
-    <script src="scripts/contact_me.js"></script>
-    <script src="scripts/jqBootstrapValidation.js"></script>
-    <!-- Vitality Theme Scripts -->
-    <script src="scripts/vitality.js"></script>
-
-    
-
-
 </body>
 
 </html>
