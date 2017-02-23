@@ -9,7 +9,6 @@
       
      setTimeout(function(){
             $('footer').css('display', 'none');
-            console.log($('footer'));
       }, 1000);
      
 </script>
