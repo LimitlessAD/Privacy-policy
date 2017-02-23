@@ -1,10 +1,8 @@
 <body id="page-top">
 <h3>
     Política de privacidade para
-    Delx Mobile
+    Limitless Soft
     e aplicativos vinculados a conta
-    <a href="#">Limitless Soft</a>
-    e
     <a href="#">Infinite Ideas Studio</a>
 </h3>
 
