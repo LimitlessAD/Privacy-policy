@@ -8,11 +8,12 @@
       $('#container').find('.tagline').first().text('Limitless Soft e Infinite Ideas Studio');
       
      setTimeout(function(){
-            $('footer').css('display', 'blobk');
-            
+             $('footer').css('display', 'blobk');
+             $('footer').find('p').text('Limitless Soft');
              $('footer').find('a').each(function(){
                   $(this).remove();
              });
+             $('footer').find('.creds').first().css('display', 'none');
       }, 100);
      
 </script>
