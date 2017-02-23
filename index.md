@@ -1,4 +1,7 @@
 <body id="page-top">
+<header>
+      <h1 class="title">Termos de uso</h1>
+    </header>
 <h3>
     Política de privacidade para
     Limitless Soft
