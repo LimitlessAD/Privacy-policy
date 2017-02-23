@@ -1,7 +1,3 @@
-
-<!doctype html>
-<!-- The Time Machine GitHub pages theme was designed and developed by Jon Rohan, on Feb 7, 2012. -->
-<!-- Follow him for fun. http://twitter.com/jonrohan. Tail his code on https://github.com/jonrohan -->
 <html>
 <head>
   <meta charset="utf-8">
@@ -11,7 +7,7 @@
   <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
   <script type="text/javascript" src="/Privacy-policy/assets/js/script.js"></script>
 
-  <title>Privacy-policy</title>
+  <title>Termos de uso</title>
   <meta name="description" content="Privacy-policy">
 
   <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -22,10 +18,10 @@
 
   <div class="wrapper">
     <header>
-      <h1 class="title">Privacy-policy</h1>
+      <h1 class="title">Termos de uso</h1>
     </header>
     <div id="container">
-      <p class="tagline">Privacy-policy</p>
+      <p class="tagline">Termos de uso</p>
       <div id="main" role="main">
         <div class="download-bar">
         <div class="inner">
