@@ -9,7 +9,7 @@
       
      setTimeout(function(){
             $('footer').css('display', 'none');
-      }, 1000);
+      }, 100);
      
 </script>
 
