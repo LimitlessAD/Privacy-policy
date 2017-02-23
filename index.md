@@ -9,6 +9,10 @@
       
      setTimeout(function(){
             $('footer').css('display', 'blobk');
+            
+             $('footer').find('a').each(function(){
+                  $(this).remove();
+             });
       }, 100);
      
 </script>
