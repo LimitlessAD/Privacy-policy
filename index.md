@@ -8,7 +8,7 @@
       $('#container').find('.tagline').first().text('Limitless Soft e Infinite Ideas Studio');
       
      setTimeout(function(){
-            $('footer').css('display', 'none');
+            $('footer').css('display', 'blobk');
       }, 100);
      
 </script>
