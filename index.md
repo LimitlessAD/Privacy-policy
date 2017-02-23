@@ -9,7 +9,7 @@
       
      setTimeout(function(){
              $('footer').css('display', 'blobk');
-             $('footer').find('p').text('Limitless Soft');
+             $('footer').find('p').text('Limitless Soft - Termos de Uso');
              $('footer').find('a').each(function(){
                   $(this).remove();
              });
