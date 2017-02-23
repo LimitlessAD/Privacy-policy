@@ -6,7 +6,10 @@
       $('header').first().find('h1').text('Termos de Uso');
       $('.inner').first().css('display', 'none');
       $('#container').find('.tagline').first().text('Limitless Soft e Infinite Ideas Studio');
+      $('small').css('display', 'none');
+      $('.owner').css('display', 'none');      
 </script>
+
 <h3>
     Política de privacidade para
     Limitless Soft
