@@ -6,7 +6,8 @@
       $('header').first().find('h1').text('Termos de Uso');
       $('.inner').first().css('display', 'none');
       $('#container').find('.tagline').first().text('Limitless Soft e Infinite Ideas Studio');
-      $('footer').css('display', 'none');      
+      $('footer').css('display', 'none');
+      console.log($('footer'));
 </script>
 
 <h3>
