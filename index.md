@@ -3,7 +3,9 @@
 <script src="https://code.jquery.com/jquery-3.1.1.min.js" async></script>
 
 <script>
+      $('header').first().find('h1').text('Termos de Uso');
       $('.inner').first().css('display', 'none');
+      $('#container').find('.tagline').first().text('Limitless Soft e Infinite Ideas Studio');
 </script>
 <h3>
     Política de privacidade para
