@@ -7,7 +7,7 @@
       $('.inner').first().css('display', 'none');
       $('#container').find('.tagline').first().text('Limitless Soft e Infinite Ideas Studio');
       $('small').css('display', 'none');
-      $('.owner').css('display', 'none');      
+      $('footer').css('display', 'none');      
 </script>
 
 <h3>
