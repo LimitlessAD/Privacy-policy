@@ -30,4 +30,5 @@
 <p>
     Todas as informações pessoais relativas a membros, assinantes, clientes ou visitantes que usem a Limitless Soft serão tratadas em concordância com a Lei da Proteção de Dados Pessoais de 26 de outubro de 1998 (Lei n.º 67/98).
     As informações pessoais recolhidas podem incluir o seu nome, e-mail, número de telefone, endereço, data de nascimento entre outras informações.
+    </p>
 </body>
