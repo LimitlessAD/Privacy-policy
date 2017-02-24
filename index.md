@@ -24,11 +24,10 @@
 </h3>
 
 <p>
-    Todas as suas informações pessoais recolhidas, serão usadas para o ajudar a tornar a sua visita no nossos apps e site o mais produtiva e agradável possível.
-    A Limitless Soft garante aa confidencialidade dos dados pessoais dos utilizadores do nossos apps e site.
+    Todas as suas informações pessoais recolhidas, serão usadas para tornar o uso das aplicações o mais prático e simples possível.
+    A Limitless Soft garante a confidencialidade dos dados pessoais dos utilizadores do nossos apps e site.
 </p>
 <p>
     Todas as informações pessoais relativas a membros, assinantes, clientes ou visitantes que usem a Limitless Soft serão tratadas em concordância com a Lei da Proteção de Dados Pessoais de 26 de outubro de 1998 (Lei n.º 67/98).
     As informações pessoais recolhidas podem incluir o seu nome, e-mail, número de telefone, endereço, data de nascimento entre outras informações.
-    <br/>
 </body>
